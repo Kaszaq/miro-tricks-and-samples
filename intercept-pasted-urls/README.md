@@ -18,9 +18,4 @@ If you would really want to use it I guess it would be good to go for some regex
 ## Why?
 I really like how the Jira cards plugin works that when you paste an URL to Jira ticket it automatically
 creates a Jira card in Miro. As there is no API exposed to hook into I was looking for a way around this and this is what I came up with.
-With this plugin users can build interactive prototypes like in InVision or Overflow.
-Very comprehensive example for a lot of SDK capabilities, including experimental features.
-![Single URL pasting](single_url.gif)
-
-![Copy pasting multiple URL's from spreadsheet](single_url.gif)
 
