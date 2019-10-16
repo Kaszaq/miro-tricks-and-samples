@@ -3,8 +3,9 @@ With this trick you can intercept pasted URL's and based on them perform some ac
 you can intercept someone pasting url to an issue from your system to create a card with all the additional details you could pull underneath. 
 
 ### Copy pasting single URL
-![Single URL pasting](single_url.gif)
-###
+![opy pasting single URL](single_url.gif)
+
+### Copy pasting multiple URL's from spreadsheet
 ![Copy pasting multiple URL's from spreadsheet](from_spreadsheet.gif)
 
 
